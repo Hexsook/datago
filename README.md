@@ -7,7 +7,7 @@ datago supports **Java 1.8** or above.
 ### Modules
 ##### [`datago-mongodb`](https://github.com/Hexsook/datago/tree/master/mongodb): For MongoDB operations.
 ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.hexsook/datago-mongodb.svg) ![Javadoc Version](https://javadoc.io/badge/io.github.hexsook/datago-mongodb.svg)
-##### [`datago-redis`](https://github.com/Hexsook/datago/tree/master/redis): For Redis operations
+##### [`datago-redis`](https://github.com/Hexsook/datago/tree/master/redis): For Redis operations.
 ![Maven Central Version](https://img.shields.io/maven-central/v/io.github.hexsook/datago-redis.svg) ![Javadoc Version](https://javadoc.io/badge/io.github.hexsook/datago-redis.svg)
 
 ### Adding datago to your project
